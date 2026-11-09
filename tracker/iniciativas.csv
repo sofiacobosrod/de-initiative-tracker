@@ -1,0 +1,7 @@
+id,nombre,tipo,responsable,equipo,etapa_actual,estado,fecha_inicio,ultima_actualizacion
+INI-001,Reducir reprocesos en Proceso A,Proyecto de mejora,Persona A,Equipo 1,Causas raíz,En curso,2026-08-03,2026-11-02
+INI-002,Estandarizar solicitudes en Proceso B,Proyecto de mejora,Persona B,Equipo 2,Implementación,En curso,2026-06-01,2026-10-30
+INI-003,Disminuir tiempo de ciclo en Proceso C,Proyecto de mejora,Persona C,Equipo 1,Mapeo del proceso,Detenida,2026-09-07,2026-09-25
+INI-004,Automatizar reporte semanal ficticio,Iniciativa de productividad,Persona D,Equipo 3,Automatización,En curso,2026-09-14,2026-11-05
+INI-005,Crear plantilla única de registro,Iniciativa de productividad,Persona E,Equipo 2,Validación inicial,En curso,2026-10-01,2026-10-05
+INI-006,Eliminar doble digitación en Proceso D,Iniciativa de productividad,Persona F,Equipo 3,Validación final,Cerrada,2026-07-06,2026-09-30
