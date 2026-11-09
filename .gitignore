@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Editor y sistema
+.vscode/
+Thumbs.db
+
+# Secretos y datos reales: nunca subirlos
+.env
+datos_reales/
+
+# Archivos temporales de Excel
+~$*
